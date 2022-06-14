@@ -175,7 +175,7 @@ html {
   color: #839496;
 }
 body {
-  background-color: #002b36;
+  background-color: #51472c;
   margin: 0 auto;
   max-width: 23cm;
   border: 1pt solid #586e75;
@@ -205,14 +205,14 @@ h6 {
   color: #859900;
 }
 pre {
-  background-color: #002b36;
+  background-color: #51472c;
   color: #839496;
   border: 1pt solid #586e75;
   padding: 1em;
   box-shadow: 5pt 5pt 8pt #073642;
 }
 pre code {
-  background-color: #002b36;
+  background-color: #51472c;
 }
 h1 {
   font-size: 2.8em;
@@ -240,7 +240,7 @@ h6 {
 .todo,
 .next,
 .done {
-  color: #002b36;
+  color: #51472c;
   background-color: #dc322f;
   padding: 0 0.2em;
 }
@@ -297,4 +297,3 @@ h6 {
   border-radius: 0.2em;
   background-color: #859900;
 }
-
