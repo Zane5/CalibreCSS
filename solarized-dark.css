@@ -171,18 +171,19 @@ h6 {
   font-weight: 700;
 }
 html {
-  background-color: #073642;
-  color: #839496;
+  background-color: #eee8d5;
+  color: #657b83;
+  margin: 1em;
 }
 body {
-  background-color: #013d4c;
+  background-color: #51472c;;
   margin: 0 auto;
   max-width: 23cm;
-  border: 1pt solid #586e75;
+  border: 1pt solid #93a1a1;
   padding: 1em;
 }
 code {
-  background-color: #073642;
+  background-color: #eee8d5;
   padding: 2px;
 }
 a {
@@ -205,14 +206,14 @@ h6 {
   color: #859900;
 }
 pre {
-  background-color: #013d4c;
-  color: #839496;
-  border: 1pt solid #586e75;
+  background-color: #51472c;
+  color: #657b83;
+  border: 1pt solid #93a1a1;
   padding: 1em;
-  box-shadow: 5pt 5pt 8pt #073642;
+  box-shadow: 5pt 5pt 8pt #eee8d5;
 }
 pre code {
-  background-color: #424c01;
+  background-color: #51472c;;
 }
 h1 {
   font-size: 2.8em;
@@ -233,14 +234,14 @@ h6 {
   font-size: 1.15em;
 }
 .tag {
-  background-color: #073642;
+  background-color: #eee8d5;
   color: #d33682;
   padding: 0 0.2em;
 }
 .todo,
 .next,
 .done {
-  color: #013d4c;
+  color: #51472c;;
   background-color: #dc322f;
   padding: 0 0.2em;
 }
