@@ -302,8 +302,13 @@ h6 {
 .body {
   line-height: 1.8;
 }
+
 ul, p, .part, .body { 
   color: green; 
+}
+
+.programlisting {
+  background-color: #393900;
 }
 
 /*** for some books, end ***/
